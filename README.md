@@ -1,6 +1,6 @@
 **GitHub Mastery Course Readme**
 
-Welcome to the GitHub Mastery Course! This course is designed to equip you with the essential skills and knowledge needed to effectively utilize GitHub for your projects, whether you're a beginner or looking to enhance your proficiency. Through a combination of tutorials, exercises, and real-world examples, you will learn how to leverage GitHub's features to streamline your development workflow, collaborate with teammates, and contribute to open-source projects.
+Bienvenue au cours de maîtrise de GitHub ! Ce cours est conçu pour vous fournir les compétences et connaissances essentielles nécessaires pour utiliser efficacement GitHub pour vos projets, que vous soyez débutant ou que vous cherchiez à améliorer votre expertise. Grâce à une combinaison de tutoriels, d'exercices et d'exemples du monde réel, vous apprendrez comment exploiter les fonctionnalités de GitHub pour optimiser votre flux de développement, collaborer avec vos coéquipiers et contribuer à des projets open source.
 
 ## Course Overview
 
